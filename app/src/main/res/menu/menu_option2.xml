@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Scan Card"
+      android:id="@+id/scan_card"/>
+
+    <item android:title="Name card floder"
+          android:id="@+id/Name_card"/>
+
+    <item android:title="My groups"
+            android:id="@+id/my_groups"/>
+
+    <item android:title="Settings"
+        android:id="@+id/opt_setting"/>
+</menu>
